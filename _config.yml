@@ -1,7 +1,7 @@
 # Site
-name: "TEST1"
-title: "TEST2"
-description: "테스트 삼삼삼"
+name: "WOOWA-SPRING-FIVE"
+title: "woowa-spring-five"
+description: "우아한테크코스3기 스프링5 프로그래밍 입문 스터디 팀 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: # 기존: /mediumish-theme-jekyll
