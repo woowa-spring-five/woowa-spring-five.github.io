@@ -13,32 +13,93 @@ permalink: /:title/
 
 # Authors
 authors:
-  # sal:
-  #   name: Sal
-  #   display_name: Sal
-  #   gravatar: e56154546cf4be74e393c62d1ae9f9d4
-  #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  # john:
-  #   name: John
-  #   display_name: John    
-  #   avatar: 'assets/images/avatar.png'
-  #   gravatar: b1cc14991db7a456fcd761680bbc8f81
-  #   email: wowthemesnet@gmail.com
-  #   web: https://www.wowthemes.net
-  #   twitter: https://twitter.com/wowthemesnet
-  #   description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   pk:
     name: PK
     display_name: 피케이    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    avatar: 'assets/images/pkeugine.jpeg'
     email: pkeugine@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
     description: "안녕하세요 피케이입니다 :)"
+
+  lns13301:
+    name: lns13301
+    display_name: 와일더
+    avatar: 'assets/images/lns13301.png'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  RinSabbit:
+    name: RinSabbit
+    display_name: 춘식
+    avatar: 'assets/images/RinSabbit.png'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  jh8579:
+    name: jh8579
+    display_name: 알리
+    avatar: 'assets/images/jh8579.png'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  perenok:
+    name: perenok
+    display_name: 크로플
+    avatar: 'assets/images/perenok.png'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  seovalue:
+    name: seovalue
+    display_name: 조앤
+    avatar: 'assets/images/seovalue.jpeg'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  thisisyoungbin:
+    name: thisisyoungbin
+    display_name: 욘
+    avatar: 'assets/images/thisisyoungbin.jpeg'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  tributetothemoon:
+    name: tributetothemoon
+    display_name: 김김
+    avatar: 'assets/images/tributetothemoon.jpeg'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  dwl5:
+    name: dwl5
+    display_name: 수리
+    avatar: 'assets/images/dwl5.png'
+    email: # 알아서 기입할 것, 없을 경우 제거
+    web: # 알아서 기입할 것, 없을 경우 제거
+    twitter: # 알아서 기입할 것, 없을 경우 제거
+    description: # 알아서 기입할 것, 없을 경우 제거
+
+  Hyeon9mak:
+    name: Hyeon9mak
+    display_name: 현구막
+    avatar: 'assets/images/Hyeon9mak.png'
+    email: jinha3507@gmail.com
+    web: Hyeon9mak.github.io
+    description: # 알아서 기입할 것, 없을 경우 제거
     
 # Plugins
 plugins:
