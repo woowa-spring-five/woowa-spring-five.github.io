@@ -3,12 +3,7 @@ layout: post
 title:  "춘식::스프링 1-2장"
 author: john
 categories: [ Spring ]
-tags: [green]
 image: assets/images/11.jpg
-description: "스프링5 입문 챕터1,2 정리"
-featured: true
-hidden: true
-rating: 4.5
 ---
 
 ## 스프링 DI 정리
