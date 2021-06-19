@@ -21,8 +21,8 @@ authors:
     web: https://www.wowthemes.net
     description: "안녕하세요 피케이입니다 :)"
 
-  lns13301:
-    name: lns13301
+  wilder:
+    name: wilder
     display_name: 와일더
     avatar: 'assets/images/lns13301.png'
     email: # 알아서 기입할 것, 없을 경우 제거
@@ -30,8 +30,8 @@ authors:
     twitter: # 알아서 기입할 것, 없을 경우 제거
     description: # 알아서 기입할 것, 없을 경우 제거
 
-  RinSabbit:
-    name: RinSabbit
+  choonsik:
+    name: choonsik
     display_name: 춘식
     avatar: 'assets/images/RinSabbit.png'
     email: # 알아서 기입할 것, 없을 경우 제거

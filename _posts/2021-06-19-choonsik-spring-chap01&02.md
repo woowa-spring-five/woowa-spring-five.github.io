@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "춘식::스프링 1-2장"
-author: john
+author: choonsik
 categories: [ Spring ]
 image: assets/images/11.jpg
 ---
