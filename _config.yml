@@ -4,7 +4,7 @@ title: "woowa-spring-five"
 description: "우아한테크코스3기 스프링5 프로그래밍 입문 스터디 팀 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: # 기존: /mediumish-theme-jekyll
+baseurl: /woowa-spring-five.github.io
 google_analytics: # 기존: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: # 기존: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
