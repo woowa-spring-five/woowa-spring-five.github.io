@@ -8,7 +8,7 @@
 |춘식|와일더|김김|욘|크로플|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="/assets/images/RinSabbit.png" alt="RinSabbit" width="100" height="100">|<img src="/assets/images/lns13301.png" alt="lns13301" width="100" height="100">|<img src="/assets/images/tributetothemoon.jpeg" alt="tributetothemoon" width="100" height="100">|<img src="/assets/images/thisisyoungbin.jpeg" alt="thisisyoungbin" width="100" height="100">|<img src="/assets/images/perenok.png" alt="perenok" width="100" height="100">|
-|[RinSabbit](https://github.com/RinSabbit)|[lns13301](https://github.com/lns13301)|[tributetothemoon](https://github.com/tributetothemoon)|[thisisyoungbin](https://github.com/thisisyoungbin)|[perenok](https://github.com/seovalueperenok)|
+|[RinSabbit](https://github.com/RinSabbit)|[lns13301](https://github.com/lns13301)|[tributetothemoon](https://github.com/tributetothemoon)|[thisisyoungbin](https://github.com/thisisyoungbin)|[perenok](https://github.com/perenok)|
 
 <br>
 
