@@ -6,7 +6,6 @@ tags: [spring, summary]
 image: assets/images/9.jpg
 ---
 
-# 스프링 개요
 ## 스프링 (스프링 프레임워크)
 주로 스프링 프레임워크를 칭한다.
 
